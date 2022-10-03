@@ -1,0 +1,4 @@
+/vendor
+/route.cache
+.vscode
+.env

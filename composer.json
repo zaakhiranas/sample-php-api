@@ -1,0 +1,13 @@
+{
+    "name": "ana5/api",
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "require": {
+        "nikic/fast-route": "^1.3",
+        "vlucas/phpdotenv": "^5.4",
+        "firebase/php-jwt": "^6.3"
+    }
+}
